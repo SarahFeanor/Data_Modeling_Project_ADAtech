@@ -4,6 +4,14 @@
 
 # Projeto - Modelagem e Análise de Dados Veiculares
 
+
+<p align="center">
+  <a href="https://github.com/SarahFeanor?tab=repositories">
+    <img src="https://media.discordapp.net/attachments/1063559719291199599/1183852088657182720/Foto_08.jpeg?ex=6589d72c&is=6577622c&hm=d61269751f319c17ec46c49ae5a2c64b5648863079e871da94cbf7e2341135fa&=&format=webp&width=344&height=198" alt="capa">
+  </a>
+</p>
+
+
 ### Projeto de Modelagem de Banco de Dados em um Cenário Real
 
 Bem-vindos(as) ao nosso repositório do 3º projeto desenvolvido durante o curso 'Vem Ser Tech Dados' da ADA Tech. Este repositório reflete o progresso e aprendizado conquistados ao longo do módulo de Banco de Dados. 
