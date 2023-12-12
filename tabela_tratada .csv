@@ -1,0 +1,87 @@
+Marca,Familia,Ano_Modelo,Modelo,Configuração,Combustível,Lugares,Portas,Porte,Procedência,Propulsão
+Ford,Fiesta,2016,Fiesta TITANIUM 1.6 16V Flex Mec.,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Honda,Civic,2014,Civic Sedan LXR 2.0 Flexone 16V Aut. 4p,Sedã,Flex,5,4,Médio,Nacional,Combustão
+Audi,A3 Sedan,2020,A3 Sedan Performance 2.0 TFSI S-tronic,Sedã,Gasolina,5,4,Médio,Nacional,Combustão
+Ford,Ranger,2003,Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel,Picape,Diesel,5,4,Médio,Importado,Combustão
+Audi,Q7,2011,Q7 3.0 V6 TFSI Quat.Tip.5p/ Perf.(Híb.),SUV,Gasolina,7,4,Grande,Importado,
+Fiat,Idea,2012,Idea Adv./ Adv.LOCK.Dualogic 1.8 Flex 5p,Minivan,Flex,5,4,Compacto,Nacional,Combustão
+BMW,550i,2009,550iA 4.8 32V,Sedã,Gasolina,5,4,Grande,Importado,Combustão
+Ford,Ranger,2010,Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel,Picape,Diesel,5,4,Médio,Importado,Combustão
+Fiat,Punto,2014,Punto ESSENCE Dualogic 1.6 Flex 16V 5p,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Ford,Mondeo,1999,Mondeo CLX 2.0i 4p Mec,Sedã,Gasolina,5,4,Médio,Importado,Combustão
+Audi,A3 Sedan,2021,A3 Sed.Perf. Black 2.0 TFSI S-tr. (Hib.),Sedã,Gasolina,5,4,Médio,Nacional,
+BMW,325i,2012,325iA,Sedã,Gasolina,5,4,Médio,Importado,Combustão
+Fiat,Siena,2008,Siena ELX 1.0 mpi Fire/Fire Flex 8V 4p,Sedã,Flex,5,4,Compacto,Nacional,Combustão
+BMW,535i,2016,535iA M Sport 3.0 24V 306cv Bi-Turbo,Sedã,Gasolina,5,4,Grande,Importado,Combustão
+Fiat,Uno,1986,S 1.3 · Álcool,Hatch,Álcool,5,2,Compacto,Nacional,Combustão
+Ford,Fiesta Sedan,2011,Fiesta Sedan SE 1.6 16V Flex 4p	,Sedã,Flex,5,4,Compacto,Importado,Combustão
+BMW,Z4,2011,Z4 Roadster sDRIVE 23i 2.5 24V 204cv 2p	,Conversível,Gasolina,2,2,Médio,Importado,Combustão
+Ford,Fiesta,2014,Fiesta TITANIUM 1.6 16V Flex Mec.,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Ford,Escort,1994,Escort GL 1.6i / 1.6,Hatch,Gasolina,5,2,Médio,Nacional,Combustão
+Ford,Ranger,1998,Ranger XLT 2.5 4x4 CS TB Diesel,Picape,Diesel,3,2,Médio,Importado,Combustão
+Fiat,500,2013,500 Cult 1.4 Flex 8V EVO Dualogic,Hatch,Flex,4,2,Subcompacto,Importado,Combustão
+Honda,Fit,2013,Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Ford,Escort,1991,Escort Ghia 1.8i / 1.8 / 1.6,Hatch,Gasolina,5,2,Médio,Nacional,Combustão
+BMW,M3,2004,M3 3.2 24V,Cupê,Gasolina,5,2,Médio,Importado,Combustão
+BMW,325i,1995,325i,Sedã,Gasolina,5,4,Médio,Importado,Combustão
+Fiat,Strada,2011,Strada Trekking 1.8 mpi Flex 8V CS,Picape,Flex,2,2,Compacto,Nacional,Combustão
+Fiat,Uno,2012,Uno Mille WAY ECONOMY 1.0 F.Flex 2p,Hatch,Flex,5,2,Compacto,Nacional,Combustão
+Fiat,Marea Weekend,2001,Marea Weekend HLX 2.4 mpi 20V 4p Mec.,Perua,Gasolina,5,4,Médio,Nacional,Combustão
+Toyota,Hilux,2013,Hilux Chassi D4-D 4x4 3.0 TDI Dies. Mec.,Chassi-cabine,Diesel,2,2,Médio,Importado,Combustão
+Ford,Focus,2014,Focus 2.0 16V/SE/SE Plus Flex 5p Aut,Hatch,Flex,5,4,Médio,Importado,Combustão
+Honda,Cr-v,2008,CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.,SUV,Gasolina,5,4,Médio,Importado,Combustão
+Fiat,Argo,2021,ARGO DRIVE 1.0 6V Flex,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Honda,City Hatch,2022,CITY Hatchback Touring 1.5 Flex 16V Aut,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Ford,Versailles,1995,Versailles GL 2.0i / 2.0 2p e 4p,Sedã,Gasolina,5,4,Médio,Nacional,Combustão
+Honda,Cr-v,2016,CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.,SUV,Flex,5,4,Médio,Importado,Combustão
+BMW,118i,2020,118i Sport 1.5 TB 12V Aut. 5p,Hatch,Gasolina,5,4,Médio,Importado,Combustão
+Honda,Fit,2012,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Aut.,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Fiat,Doblo,2009,Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p,Furgão,Flex,2,3,Médio,Nacional,Combustão
+Ford,Edge,2010,EDGE SEL 3.5 V6 24V AWD Aut.,SUV,Gasolina,5,4,Médio,Importado,Combustão
+Fiat,Palio,2011,Palio 1.0 ECONOMY Fire Flex 8V 2p,Hatch,Flex,5,2,Compacto,Nacional,Combustão
+Fiat,Fiorino,1991,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,Furgão,Gasolina,2,2,Compacto,Nacional,Combustão
+Audi,Q7,2007,Q7 4.2 V8 40V 350cv Quattro Tiptronic,SUV,Gasolina,7,4,Grande,Importado,Combustão
+Audi,80 Avant,1995,80 2.0 Avant,Perua,Gasolina,5,4,Médio,Importado,Combustão
+Fiat,Mobi,2019,MOBI LIKE 1.0 Fire Flex 5p.,Hatch,Flex,5,4,Subcompacto,Nacional,Combustão
+BMW,320i,2018,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,Sedã,Flex,5,4,Médio,Nacional,Combustão
+Ford,Escort Sw,1998,Escort S.W GL 1.8i 16V,Perua,Gasolina,5,4,Médio,Importado,Combustão
+Fiat,Coupe,1996,Coupe 16V,Cupê,Gasolina,4,2,Médio,Importado,Combustão
+Ford,Ka Sedan,2018,Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p,Sedã,Flex,5,4,Compacto,Nacional,Combustão
+BMW,320i,2020,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,Sedã,Gasolina,5,4,Médio,Nacional,Combustão
+Toyota,Etios,2015,ETIOS PLATINUM 1.5 Flex 16V 5p Mec.,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Ford,Fiesta,2006,Fiesta Personnalité 1.0 8V 66cv 5p,Hatch,Gasolina,5,4,Compacto,Nacional,Combustão
+Fiat,Elba,1991,Elba CS 1.6 / 1.5 /1.3,Perua,Gasolina,5,2,Compacto,Nacional,Combustão
+Fiat,Doblo,2019,Doblo Adv/Adv TRYON/LOCKER 1.8 Flex	,Minivan,Flex,6,4,Médio,Nacional,Combustão
+Fiat,Argo,2020,ARGO DRIVE 1.3 8V Flex,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Audi,A4 Avant,2000,A4 2.8 Avant V6 30V Tiptronic,Perua,Gasolina,5,4,Médio,Importado,Combustão
+Ford,Escort Sw,2000,Escort S.W GL 1.8i 16V,Perua,Gasolina,5,4,Médio,Importado,Combustão
+Ford,Focus,2015,Focus 1.6 S/SE/SE Plus Flex 8V/16V 5p,Hatch,Flex,5,4,Médio,Importado,Combustão
+Ford,Royale,1992,Royale GL 2.0/2.0i 2p e 4p,Perua,Gasolina,5,2,Médio,Nacional,Combustão
+Ford,F-250,2002,F-250 XLT 4.2 V6,Picape,Gasolina,3,2,Grande,Nacional,Combustão
+Fiat,Premio,1993,Premio CS 1.5 i.e. 2p/ SL 1.6/1.5/1.3 4p,Sedã,Gasolina,5,4,Compacto,Nacional,Combustão
+Fiat,Doblo,2016,Doblo ESSENCE 1.8 Flex 16V 5p,Minivan,Flex,7,4,Médio,Nacional,Combustão
+Honda,Prelude,1992,Prelude Si,Cupê,Gasolina,4,2,Médio,Importado,Combustão
+Ford,Mustang,2014,Mustang GT V8,Cupê,Gasolina,4,2,Grande,Importado,Combustão
+Honda,Cr-v,2007,CR-V 2.0 16V Aut.,SUV,Gasolina,5,4,Médio,Importado,Combustão
+Fiat,Siena,2015,Grand Siena ESSENCE ITALIA 1.6 Flex 16V,Sedã,Flex,5,4,Compacto,Nacional,Combustão
+BMW,330i,2020,330i Sport 2.0 TB 16V 4p,Sedã,Gasolina,5,4,Médio,Nacional,Combustão
+Ford,Fiesta Sedan,2005,Fiesta Sed. 1.6 8V Flex 4p,Sedã,Flex,5,4,Compacto,Nacional,Combustão
+Fiat,Strada,2016,Strada Working 1.4 mpi Fire Flex 8V CE,Picape,Flex,2,2,Compacto,Nacional,Combustão
+Ford,Ranger,2009,Ranger Limited 3.0 PSE 4x4 CD TB Diesel,Picape,Diesel,5,4,Médio,Importado,Combustão
+Honda,City,2017,CITY Sedan DX 1.5 Flex 16V Mec.,Sedã,Flex,5,4,Compacto,Nacional,Combustão
+Fiat,Fiorino,2002,Fiorino Furgão 1.5 mpi / i.e.,Furgão,Gasolina,2,2,Compacto,Nacional,Combustão
+Audi,Q5,2020,Q5 Black 2.0 TFSI Quattro S tronic,SUV,Gasolina,5,4,Médio,Importado,Combustão
+BMW,318i Cabriolet,1994,318i Cabrio 1.8 16V,Conversível,Gasolina,4,2,Médio,Importado,Combustão
+Toyota,Yaris,2022,YARIS XL Live 1.3 Flex 16V 5p Aut.,Hatch,Flex,5,4,Compacto,Nacional,Combustão
+Ford,Ka Sedan,2015,Ka+ Sedan 1.5 SEL 16V Flex 4p,Sedã,Flex,5,4,Compacto,Nacional,Combustão
+Ford,Versailles,1992,Versailles GL 1.8i / 1.8 2p e 4p,Sedã,Gasolina,5,2,Médio,Nacional,Combustão
+Fiat,Doblo,2014,Doblo ATTRACTIVE 1.4 Fire Flex 8V 5p,Minivan,Flex,6,4,Médio,Nacional,Combustão
+Toyota,Sw4,1995,Hilux SW4 4x4 3.0 12V V6,SUV,Gasolina,5,4,Grande,Importado,Combustão
+BMW,316i,2015,316i 1.6 TB 16V 136cv 4p,Sedã,Gasolina,5,4,Médio,Importado,Combustão
+BMW,320i,2003,320iA,Sedã,Gasolina,5,4,Médio,Importado,Combustão
+BMW,X3,2022,X3 M40i 3.0 M Sport Edit. V6 Turbo Aut.,SUV,Gasolina,5,4,Médio,Importado,Combustão
+Ford,Courier,2001,Courier Sport 1.6 8v,Picape,Gasolina,2,2,Compacto,Nacional,Combustão
+Audi,Q7,2022,Q7 Perf. Black 3.0 TFSI Quat.Tip.(Híb.),SUV,Gasolina,7,4,Grande,Importado,Híbrido leve
+BMW,760i,2003,760iL 6.0 V12 445cv/544cv,Sedã,Gasolina,5,4,Grande,Importado,Combustão
+Audi,A3 Sedan,2016,A3 Sed. Ambition 2.0 TSFI 220cv S-tronic,Sedã,Gasolina,5,4,Médio,Importado,Combustão
+Ford,Ranger,2005,Ranger XLS 2.3 16V 145cv/150cv 4x2 CD,Picape,Gasolina,6,4,Médio,Importado,Combustão
