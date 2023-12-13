@@ -29,13 +29,13 @@ Bem-vindos(as) ao nosso repositório do 3º projeto desenvolvido durante o curso
 
 ## Visão Geral do Projeto 
 
-- Nosso projeto teve como objetivo demonstrar nossa experiência prática na criação de um banco de dados a partir de um cenário do mundo real, aplicando os conceitos aprendidos em modelagem de banco de dados e SQL. A capacidade de documentar e apresentar o trabalho de maneira clara e estruturada. 
+Nosso projeto teve como objetivo demonstrar nossa experiência prática na criação de um banco de dados a partir de um cenário do mundo real, aplicando os conceitos aprendidos em modelagem de banco de dados e SQL. A capacidade de documentar e apresentar o trabalho de maneira clara e estruturada. 
 
-- O projeto de Modelagem e Análise de Dados Veiculares tem como escopo informações relacionadas a veículos, especificamente valores de veículos obtidos por meio da tabela FIPE, Tabela de Informações Veiculares e Tabela de Salários Mínimos ao longo do tempo. O processo de Extração, Transformação e Carga (ETL) de duas fontes de Dados foi realizado por meio de web scraping. 
+O projeto de Modelagem e Análise de Dados Veiculares tem como escopo informações relacionadas a veículos, especificamente valores de veículos obtidos por meio da tabela FIPE, Tabela de Informações Veiculares e Tabela de Salários Mínimos ao longo do tempo. O processo de Extração, Transformação e Carga (ETL) de duas fontes de Dados foi realizado por meio de web scraping. 
 
-- O propósito fundamental do nosso projeto é empregar consultas SQL para obter insights cruciais sobre a precificação e desvalorização de veículos. Estamos focados em identificar os carros de entrada, avaliando sua precificação em relação aos salários mínimos. Além disso, buscamos destacar os veículos que apresentam as maiores variações percentuais de preço, entre outros tópicos relevantes no contexto automotivo.
+O propósito fundamental do nosso projeto é empregar consultas SQL para obter insights cruciais sobre a precificação e desvalorização de veículos. Estamos focados em identificar os carros de entrada, avaliando sua precificação em relação aos salários mínimos. Além disso, buscamos destacar os veículos que apresentam as maiores variações percentuais de preço, entre outros tópicos relevantes no contexto automotivo.
 
-- Por fim, nosso projeto reflete nosso comprometimento em aplicar conhecimentos teóricos na prática, destacando nossa habilidade em modelagem de banco de dados e análise de dados no contexto do mundo real.
+Por fim, nosso projeto reflete nosso comprometimento em aplicar conhecimentos teóricos na prática, destacando nossa habilidade em modelagem de banco de dados e análise de dados no contexto do mundo real.
 
 
 
