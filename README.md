@@ -31,11 +31,30 @@ Bem-vindos(as) ao nosso repositório do 3º projeto desenvolvido durante o curso
 
 Nosso projeto teve como objetivo demonstrar nossa experiência prática na criação de um banco de dados a partir de um cenário do mundo real, aplicando os conceitos aprendidos em modelagem de banco de dados e SQL. A capacidade de documentar e apresentar o trabalho de maneira clara e estruturada. 
 
-O projeto de Modelagem e Análise de Dados Veiculares tem como escopo informações relacionadas a veículos, especificamente valores de veículos obtidos por meio da tabela FIPE, Tabela de Informações Veiculares e Tabela de Salários Mínimos ao longo do tempo. O processo de Extração, Transformação e Carga (ETL) de duas fontes de Dados foi realizado por meio de web scraping. 
-
 O propósito fundamental do nosso projeto é empregar consultas SQL para obter insights cruciais sobre a precificação e desvalorização de veículos. Estamos focados em identificar os carros de entrada, avaliando sua precificação em relação aos salários mínimos. Além disso, buscamos destacar os veículos que apresentam as maiores variações percentuais de preço, entre outros tópicos relevantes no contexto automotivo.
 
 Por fim, nosso projeto reflete nosso comprometimento em aplicar conhecimentos teóricos na prática, destacando nossa habilidade em modelagem de banco de dados e análise de dados no contexto do mundo real.
 
+## Dados 
 
+O projeto de Modelagem e Análise de Dados Veiculares tem como escopo informações relacionadas a veículos, especificamente valores de veículos obtidos por meio da: 
+
+- [Tabela FIPE](https://github.com/SarahFeanor/data_modeling_project_ADAtech/blob/main/Arquivos%20%22csv%22%20do%20Projeto/fipe_2023_amostra.csv)
+- [Tabela de Informações Veiculares](https://github.com/SarahFeanor/data_modeling_project_ADAtech/blob/main/Arquivos%20%22csv%22%20do%20Projeto/tabela_tratada%20.csv)
+- [Tabela de Salários Mínimos ao longo do tempo](https://github.com/SarahFeanor/data_modeling_project_ADAtech/blob/main/Arquivos%20%22csv%22%20do%20Projeto/Ipeadata_Tratado.csv)
+
+
+## Repositórios referentes ao tratamento de **WebScraping**:
+
+O processo de Extração, Transformação e Carga (ETL) de duas fontes de Dados foi realizado por meio de web scraping, sendo elas a  `Tabela de Informações Veiculares` e `Tabela de Salários Mínimos` ao longo do tempo. 
+
+- Referente a tabela FIPE: **Repositório** - [WebScraping_FIPE](https://github.com/jaredleite/WebScraping_FIPE/tree/main)
+- Referente a tabela **Ficha Técnica**: Repositório - [WebScraping_CarTechData](https://github.com/jaredleite/WebScraping_CarTechData)
+
+---
+
+## Documentação do Projeto
+
+- Documento: Projeto - [Modelagem e Análise de Dados Veiculares](https://github.com/SarahFeanor/data_modeling_project_ADAtech/blob/main/Documento%20-%20Projeto-Grupo1-M%C3%B3dulo3-13-12-2023%20(1).pdf)
+  
 
