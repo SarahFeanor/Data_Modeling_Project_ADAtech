@@ -21,7 +21,7 @@ Bem-vindos(as) ao nosso repositório do 3º projeto desenvolvido durante o curso
 - [Caio Vieira](https://www.linkedin.com/in/caio-miazzi-86454617b/)
 - [Igor Cruz](https://www.linkedin.com/in/igorcruzcf/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Jared Leite](https://www.linkedin.com/in/jared-f-leite-a8351a78/)
-- [Leticia Carneiro]()
+- [Leticia Carneiro](https://www.linkedin.com/in/leticia-oliv/)
 - [Sarah Rezende](https://www.linkedin.com/in/sarahfrezende/)
 
 **Professor**: 
