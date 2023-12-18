@@ -46,7 +46,7 @@ O projeto de Modelagem e Análise de Dados Veiculares tem como escopo informaç�
 
 ## Repositórios referentes ao tratamento de **WebScraping**:
 
-O processo de Extração, Transformação e Carga (ETL) de duas fontes de Dados foi realizado por meio de web scraping, sendo elas a  `Tabela de Informações Veiculares` e `Tabela de Salários Mínimos` ao longo do tempo. 
+O processo de Extração, Transformação e Carga (ETL) de duas fontes de Dados foi realizado por meio de web scraping, sendo elas a  `Tabela de Informações Veiculares` e `Tabela Fipe` ao longo do tempo. 
 
 - Referente a tabela FIPE: **Repositório** - [WebScraping_FIPE](https://github.com/jaredleite/WebScraping_FIPE/tree/main)
 - Referente a tabela Ficha Técnica: **Repositório** - [WebScraping_CarTechData](https://github.com/jaredleite/WebScraping_CarTechData)
