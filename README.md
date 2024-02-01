@@ -18,7 +18,7 @@
 
 ### Projeto de Modelagem de Banco de Dados em um Cenário Real
 
-Bem-vindos(as) ao nosso repositório do **3º projet**o desenvolvido durante o curso '_Vem Ser Tech Dados_' da **ADA Tech**. Este repositório reflete o progresso e aprendizado conquistados ao longo do módulo de Banco de Dados. 
+Bem-vindos(as) ao nosso repositório do **3º projet**o desenvolvido durante o curso '_Vem Ser Tech Dados_' da **ADA Tech**. Este repositório reflete o progresso e aprendizado conquistados ao longo do módulo de Banco de Dados.
 
 **Integrantes**:
 
